@@ -1,7 +1,3 @@
-Aqui está um exemplo de um **README.md** bem organizado, com foco acadêmico, mas com um toque profissional que você pode usar para o repositório GitHub do projeto:
-
----
-
 # 📏 PosturaSegura - Sistema Inteligente de Alerta Postural
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Human_body_silhouette.png/240px-Human_body_silhouette.png" alt="Posture Icon" width="150"/>
