@@ -47,8 +47,8 @@ Antes de começar, você precisa ter instalado:
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/diluan135/PosturaSegura.git
-cd PosturaSegura
+git clone https://github.com/diluan135/postureDetection.git
+cd postureDetection
 ```
 
 2. Coloque um arquivo de áudio `.mp3` para o alerta na mesma pasta do código com o nome `alerta.mp3`.
@@ -60,7 +60,7 @@ cd PosturaSegura
 Rode o sistema com:
 
 ```bash
-python postura_segura.py
+python main.py
 ```
 
 **Atalhos durante a execução:**
@@ -74,8 +74,8 @@ python postura_segura.py
 ## 🏗️ Estrutura de Pastas
 
 ```
-PosturaSegura/
-├── postura_segura.py
+postureDetection/
+├── main.py
 ├── alerta.mp3
 ├── requirements.txt
 └── README.md
