@@ -51,22 +51,7 @@ git clone https://github.com/diluan135/PosturaSegura.git
 cd PosturaSegura
 ```
 
-2. Instale as dependências:
-
-```bash
-pip install -r requirements.txt
-```
-
-> **Obs:** Se não tiver o arquivo `requirements.txt`, crie com os seguintes conteúdos:
-
-```txt
-opencv-python
-mediapipe
-numpy
-pygame
-```
-
-3. Coloque um arquivo de áudio `.mp3` para o alerta na mesma pasta do código com o nome `alerta.mp3`.
+2. Coloque um arquivo de áudio `.mp3` para o alerta na mesma pasta do código com o nome `alerta.mp3`.
 
 ---
 
